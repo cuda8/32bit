@@ -1,3 +1,4 @@
+Only for Linux (ubuntu)
 The developers have removed the utility everywhere, it is impossible to compile from the source code.<br>
 It is very difficult to find a vulnerable version 3.2.<br>
 Miner got the explorer from the docker, now you can buy it $100 https://t.me/cuda8<br>
